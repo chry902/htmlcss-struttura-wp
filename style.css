@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+    width: 80%;
+    margin: auto;
+    
+
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+}
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.siteheader{
+    background-color: darkorchid;
+    height: 70px;
+    margin: 1rem;
+}
+.sitemain{
+    background-color: rgb(198, 198, 61);
+    height:300px;
+    margin: 1rem;
+}
+
