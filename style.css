@@ -1,6 +1,6 @@
 body{
-    background-color: aquamarine;
-    width: 80%;
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
     margin: auto;
     
 
@@ -24,6 +24,47 @@ body{
 .sitemain{
     background-color: rgb(198, 198, 61);
     height:300px;
-    margin: 1rem;
+    margin: 1rem  1rem 1rem ;
 }
+.contain{
+    display: inline-block;
+    width: 100%;
+}
+
+.top{
+    background-color: rgb(131, 205, 241);
+    height:50px;
+    margin: 0rem 1rem;
+}
+.left{
+    background-color: rgb(131, 205, 241);
+    height: 500px;
+    width: 23%;
+    margin: 1rem 1rem 0rem 1rem;
+    display:inline-block 
+}
+.midle{
+    background-color: rgb(131, 205, 241);
+    height: 500px;
+    width: 42%;
+    margin: 1rem 1rem 0rem 1rem;
+    display: inline-block;
+}
+.rigth{
+    background-color: rgb(131, 205, 241);
+    height: 500px;
+    width: 23%;
+    margin: 1rem 1rem 0rem 1rem;
+    float: right;
+    
+}
+.bottom{
+    background-color: rgb(201, 131, 241);
+    height:50px;
+    margin-top; 3px; 
+    margin-right:1rem;
+    margin-left:1rem;
+}
+
+
 
