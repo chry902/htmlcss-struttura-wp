@@ -37,7 +37,7 @@ body{
 .top{
     background-color: rgb(131, 205, 241);
     height:50px;
-    
+    margin-bottom: 1rem;
 }
 .left{
     background-color: rgb(131, 205, 241);
@@ -48,21 +48,22 @@ body{
 .midle{
     background-color: rgb(131, 205, 241);
     height: 500px;
-    width: 42%;
-    float: right;
+    width: 50%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%; 
 }
 .rigth{
     background-color: rgb(131, 205, 241);
     height: 500px;
     width: 23%;
-    float: right;
+    float: left;
 }
 .bottom{
     background-color: rgb(201, 131, 241);
     height:50px;
     margin-top; 3px; 
-    margin-right:1rem;
-    margin-left:1rem;
+   
 }
 
 
